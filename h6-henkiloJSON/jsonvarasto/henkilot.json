@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "etunimi": "Leila",
+        "sukunimi": "Hökki",
+        "osasto": "ict",
+        "palkka": 3000
+    },
+    {
+        "id": 2,
+        "etunimi": "Matti",
+        "sukunimi": "Puro",
+        "osasto": "hallinto",
+        "palkka": 4000
+    }
+]

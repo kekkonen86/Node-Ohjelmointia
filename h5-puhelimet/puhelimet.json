@@ -1,0 +1,21 @@
+[
+    {
+        "etunimi":"Leila",
+        "sukunimi":"Hökki",
+        "puhelimet":[
+            "12345678","040999888"
+        ]
+    },
+    {
+        "etunimi":"Matti",
+        "sukunimi":"Puro",
+        "puhelimet":[
+            "65432178"
+        ]
+    },
+    {
+        "etunimi":"Jesse",
+        "sukunimi":"Virta",
+        "puhelimet":[]
+    }
+]
