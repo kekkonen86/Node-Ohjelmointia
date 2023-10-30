@@ -1,0 +1,22 @@
+{
+    "1":{
+        "nimi": "Markku",
+        "ammatti": "opettaja",
+        "ika": 31
+     },
+    "2": {
+        "nimi": "Tarja",
+        "ammatti": "arkkitehti",
+        "ika": 40
+     },
+    "3": {
+        "nimi": "Joni",
+        "ammatti": "myyjä",
+        "ika": 22
+     },
+    "4": {
+        "nimi": "Silja",
+        "ammatti": "opettaja",
+        "ika": 54
+     }
+}

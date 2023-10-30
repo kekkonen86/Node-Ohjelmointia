@@ -1,0 +1,12 @@
+GET http://localhost:3000
+
+### testaa postia
+
+POST http://localhost:3000/kurssit
+Content-Type: application/json
+
+{
+    "nimi": "samples",
+    "kuvaus": "jotain",
+    "ajankohta": "2005"
+}

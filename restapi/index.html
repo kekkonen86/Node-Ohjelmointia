@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Testilomake henkilöille</title>
+</head>
+<body>
+<form action="http://localhost:3000/kurssit/:kurssi_id" method="GET">
+  <label for="kurssi_id">Kurssi ID:</label>
+  <input type="text" id="kurssi_id" name="kurssi_id">
+  <input type="submit" value="Hae ID:llä">
+</form>
+<form action="/kurssit" method="POST">
+    <label for="nimi">Nimi:</label>
+    <input type="text" id="nimi" name="nimi" required>
+    <br>
+    <label for="kuvaus">Kuvaus:</label>
+    <input type="text" id="kuvaus" name="kuvaus" required>
+    <br>
+    <label for="ajankohta">Ajankohta:</label>
+    <input type="text" id="ajankohta" name="ajankohta" required>
+    <br>
+    <input type="submit" value="Lisää">
+  </form>
+  
+  
+
+    <a href="http://localhost:3000/kurssit">Kurssit</a>
+</body>
+</html>
