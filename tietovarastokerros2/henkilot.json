@@ -1,0 +1,52 @@
+[
+    {
+        "nimi": "Luffy",
+        "synnyinpaikka": "East blue",
+        "taito": "kapteeni"
+     },
+     {
+        "nimi": "Zoro",
+        "synnyinpaikka": "East blue",
+        "taito": "Oikeakäsi"
+     },
+     {
+        "nimi": "Nami",
+        "synnyinpaikka": "East blue",
+        "taito": "Navigoija"
+     },
+     {
+        "nimi": "Usopp",
+        "synnyinpaikka": "East blue",
+        "taito": "Tarkka-ampuja"
+     },
+     {
+      "nimi": "Sanji",
+      "synnyinpaikka": "North blue",
+      "taito": "Kokki"
+     },
+     {
+      "nimi": "Chopper",
+      "synnyinpaikka": "Grandline",
+      "taito": "Lääkäri"
+     },
+     {
+      "nimi": "Robin",
+      "synnyinpaikka": "West blue",
+      "taito": "Historioitsija"
+     },
+     {
+      "nimi": "Franky",
+      "synnyinpaikka": "South blue",
+      "taito": "Laivankorjaaja"
+     },
+     {
+      "nimi": "Brook",
+      "synnyinpaikka": "West blue",
+      "taito": "Muusikko"
+     },
+     {
+      "nimi": "Vivi",
+      "synnyinpaikka": "Grandline",
+      "taito": "Prinsessa"
+     }
+]

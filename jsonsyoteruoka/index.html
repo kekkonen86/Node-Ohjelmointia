@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Testilomake henkilöille</title>
+    <script src="./skriptit.js" defer></script>
+</head>
+<body>
+    <form action="http://localhost:3000">
+        <label for="paivat">Valitse päivä: </label>
+        <select name="paivat" id="paivat">
+          <option value="maanantai">Maanantai</option>
+          <option value="tiistai">Tiistai</option>
+          <option value="keskiviikko">Keskiviikko</option>
+          <option value="torstai">Torstai</option>
+          <option value="perjantai">Perjantai</option>
+        </select>
+        <br><br>
+        <input type="submit" id="nappi" value="Submit">
+      </form>
+      
+      <p id="tulos"></p>
+    <!-- <form action="http://localhost:3000" method="post">
+        <input type="text" name="nimi" id="nimi">
+        <input type="submit" id="niminappi" value="Hae nimellä">
+    </form>
+    <form action="http://localhost:3000" method="post">
+        <input type="text" id="ammatti" name="ammatti">
+        <input type="submit" id="ammattinappi" value="Hae ammatilla">
+    </form>
+
+    <p id="tulos"></p>
+    <p id="tulos2"></p> -->
+</body>
+</html>

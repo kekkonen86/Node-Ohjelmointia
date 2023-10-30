@@ -1,0 +1,32 @@
+[
+    {
+        "paiva": "maanantai",
+        "paaruoka": "Kalakeitto",
+        "jalkiruoka": "Uuniomena",
+        "erikois": "G, L"
+    },
+    {
+        "paiva": "tiistai",
+        "paaruoka": "Kaalikääryleet",
+        "jalkiruoka": "Suklaaleivos",
+        "erikois": "V"
+    },
+    {
+        "paiva": "keskiviikko",
+        "paaruoka": "Gluteenittomat pinaattiletut",
+        "jalkiruoka": "raparperikiisseli",
+        "erikois": "V, G"
+    },
+    {
+        "paiva": "torstai",
+        "paaruoka": "Uunilenkki ja perunamuusi",
+        "jalkiruoka": "Marjarahka",
+        "erikois": "L"
+    },
+    {
+        "paiva": "perjantai",
+        "paaruoka": "Hernekeitto",
+        "jalkiruoka": "Pannukakku",
+        "erikois": "L"
+    }
+]

@@ -1,0 +1,14 @@
+#kuvapohja1, #kuvapohja2 {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#kuvapohja1 img {
+    border: 15px ridge darkblue;
+}
+
+#kuvapohja2 img {
+    border: 10px double black;
+    border-radius: 40px;
+    opacity: 0.6;
+}
